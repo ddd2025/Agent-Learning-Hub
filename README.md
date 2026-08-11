@@ -34,10 +34,10 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 ### Stage 0: Understand What An Agent Is
 
 - [x] 区分 chatbot、workflow、agent、multi-agent。
-- [ ] 理解 agent 的基本循环：observe -> think -> act -> observe。
-- [ ] 明白什么时候不该用 agent：任务可预测、流程稳定、普通脚本能解决时，agent 反而增加不确定性。
-- [ ] 读完 [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)。
-- [ ] 读完 [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/)。
+- [x] 理解 agent 的基本循环：observe -> think -> act -> observe。
+- [x] 明白什么时候不该用 agent：任务可预测、流程稳定、普通脚本能解决时，agent 反而增加不确定性。
+- [x] 读完 [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)。
+- [x] 读完 [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/)。
 
 产出：写一页短笔记，回答「我的场景为什么需要 agent，而不是普通 workflow？」
 
