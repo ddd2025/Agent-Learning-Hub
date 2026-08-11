@@ -33,7 +33,7 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 
 ### Stage 0: Understand What An Agent Is
 
-- [ ] 区分 chatbot、workflow、agent、multi-agent。
+- [x] 区分 chatbot、workflow、agent、multi-agent。
 - [ ] 理解 agent 的基本循环：observe -> think -> act -> observe。
 - [ ] 明白什么时候不该用 agent：任务可预测、流程稳定、普通脚本能解决时，agent 反而增加不确定性。
 - [ ] 读完 [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)。
